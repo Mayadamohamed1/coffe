@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.project{
+    background-color: gray;
+    width: 100%;
+
+}
+.project .header .nav{
+    background-color: black;
+    color: white;
+    padding: 20px 60px;
+}
+.project .header .nav ul li{
+    display: inline-block;
+    margin: 0 20px;
+    font-size: 20px;
+}
+.bannar{
+    width: 100%;
+    text-align: center;
+}
+.bannar img{
+    width: 50%;
+    height: 220px;
+    border-radius: 20px;
+    margin: 30px 0;
+}
+.product .one {
+    background-color: #000;
+    color: #fff;
+    width: 20%;
+    border: 20px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+ h1{
+    font-size: 30px;
+    text-align: center;
+}
+.project .header .nav ul li:hover{
+    color: rgb(224, 110, 17);
+  
+}
+button{
+    border-radius: 10px;
+    width: 80px;
+    height: 35px;
+}
+button:hover{
+    width: 100px;
+    background-color: rgb(29, 13, 0);
+    color: white;
+}
+.product p{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.product .one img{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+.oone {
+    margin-left: 20px;
+}
+
+.two {
+    margin-left: 25%;
+}
+
+.three {
+    margin-left: 50%;
+}
+
+.four {
+    margin-left: 75%;
+}
